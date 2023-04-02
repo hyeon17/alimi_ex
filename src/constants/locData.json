@@ -1,0 +1,387 @@
+{
+  "locations": [
+    {
+      "key": 1,
+      "sidoName": "서울",
+      "stations": [
+        {
+          "key": 1,
+          "stationName": "강남구"
+        },
+        {
+          "key": 2,
+          "stationName": "서초구"
+        },
+        {
+          "key": 3,
+          "stationName": "도산대로"
+        },
+        {
+          "key": 4,
+          "stationName": "강남대로"
+        },
+        {
+          "key": 5,
+          "stationName": "송파구"
+        },
+        {
+          "key": 6,
+          "stationName": "강동구"
+        },
+        {
+          "key": 7,
+          "stationName": "천호대로"
+        },
+        {
+          "key": 8,
+          "stationName": "금천구"
+        },
+        {
+          "key": 9,
+          "stationName": "시흥대로"
+        },
+        {
+          "key": 10,
+          "stationName": "강북구"
+        },
+        {
+          "key": 11,
+          "stationName": "양천구"
+        },
+        {
+          "key": 12,
+          "stationName": "노원구"
+        },
+        {
+          "key": 13,
+          "stationName": "화랑로"
+        },
+        {
+          "key": 14,
+          "stationName": "중구"
+        },
+        {
+          "key": 15,
+          "stationName": "한강대로"
+        },
+        {
+          "key": 16,
+          "stationName": "종로구"
+        },
+        {
+          "key": 17,
+          "stationName": "청계천로"
+        },
+        {
+          "key": 18,
+          "stationName": "종로"
+        },
+        {
+          "key": 19,
+          "stationName": "용산구"
+        },
+        {
+          "key": 20,
+          "stationName": "광진구"
+        },
+        {
+          "key": 21,
+          "stationName": "성동구"
+        },
+        {
+          "key": 22,
+          "stationName": "강변북로"
+        },
+        {
+          "key": 23,
+          "stationName": "중랑구"
+        },
+        {
+          "key": 24,
+          "stationName": "동대문구"
+        },
+        {
+          "key": 25,
+          "stationName": "홍릉로"
+        },
+        {
+          "key": 26,
+          "stationName": "성북구"
+        },
+        {
+          "key": 27,
+          "stationName": "정릉로"
+        },
+        {
+          "key": 28,
+          "stationName": "도봉구"
+        },
+        {
+          "key": 29,
+          "stationName": "은평구"
+        },
+        {
+          "key": 30,
+          "stationName": "서대문구"
+        },
+        {
+          "key": 31,
+          "stationName": "마포구"
+        },
+        {
+          "key": 32,
+          "stationName": "신촌로"
+        },
+        {
+          "key": 33,
+          "stationName": "강서구"
+        },
+        {
+          "key": 34,
+          "stationName": "공항대로"
+        },
+        {
+          "key": 35,
+          "stationName": "구로구"
+        },
+        {
+          "key": 36,
+          "stationName": "영등포구"
+        },
+        {
+          "key": 37,
+          "stationName": "영등포로"
+        },
+        {
+          "key": 38,
+          "stationName": "동작구"
+        },
+        {
+          "key": 39,
+          "stationName": "동작대로 중앙차로"
+        },
+        {
+          "key": 40,
+          "stationName": "관악구"
+        }
+      ]
+    },
+    {
+      "key": 2,
+      "sidoName": "부산",
+      "stations": [
+        {
+          "key": 1,
+          "stationName": "광복동"
+        },
+        {
+          "key": 2,
+          "stationName": "초량동"
+        },
+        {
+          "key": 3,
+          "stationName": "태종대"
+        },
+        {
+          "key": 4,
+          "stationName": "청학동"
+        },
+        {
+          "key": 5,
+          "stationName": "전포동"
+        },
+        {
+          "key": 6,
+          "stationName": "온천동"
+        },
+        {
+          "key": 7,
+          "stationName": "명장동"
+        },
+        {
+          "key": 8,
+          "stationName": "대연동"
+        },
+        {
+          "key": 9,
+          "stationName": "용호동"
+        },
+        {
+          "key": 10,
+          "stationName": "학장동"
+        },
+        {
+          "key": 11,
+          "stationName": "덕천동"
+        },
+        {
+          "key": 12,
+          "stationName": "화명동"
+        },
+        {
+          "key": 13,
+          "stationName": "삼락동"
+        },
+        {
+          "key": 14,
+          "stationName": "청룡동"
+        },
+        {
+          "key": 15,
+          "stationName": "좌동"
+        },
+        {
+          "key": 16,
+          "stationName": "재송동"
+        },
+        {
+          "key": 17,
+          "stationName": "장림동"
+        },
+        {
+          "key": 18,
+          "stationName": "대저동"
+        },
+        {
+          "key": 19,
+          "stationName": "녹산동"
+        },
+        {
+          "key": 20,
+          "stationName": "명지동"
+        },
+        {
+          "key": 21,
+          "stationName": "연산동"
+        },
+        {
+          "key": 22,
+          "stationName": "기장읍"
+        },
+        {
+          "key": 23,
+          "stationName": "용수리"
+        },
+        {
+          "key": 24,
+          "stationName": "수정동"
+        },
+        {
+          "key": 25,
+          "stationName": "부곡동"
+        },
+        {
+          "key": 26,
+          "stationName": "회동동"
+        },
+        {
+          "key": 27,
+          "stationName": "광안동"
+        },
+        {
+          "key": 28,
+          "stationName": "대신동"
+        },
+        {
+          "key": 29,
+          "stationName": "덕포동"
+        },
+        {
+          "key": 30,
+          "stationName": "개금동"
+        },
+        {
+          "key": 31,
+          "stationName": "당리동"
+        },
+        {
+          "key": 32,
+          "stationName": "부산북항"
+        },
+        {
+          "key": 33,
+          "stationName": "부산신항"
+        },
+        {
+          "key": 34,
+          "stationName": "부산항"
+        }
+      ]
+    },
+    {
+      "key": 3,
+      "sidoName": "대구",
+      "stations": []
+    },
+    {
+      "key": 4,
+      "sidoName": "인천",
+      "stations": []
+    },
+    {
+      "key": 5,
+      "sidoName": "광주",
+      "stations": []
+    },
+    {
+      "key": 6,
+      "sidoName": "대전",
+      "stations": []
+    },
+    {
+      "key": 7,
+      "sidoName": "울산",
+      "stations": []
+    },
+    {
+      "key": 8,
+      "sidoName": "경기",
+      "stations": []
+    },
+    {
+      "key": 9,
+      "sidoName": "강원",
+      "stations": []
+    },
+    {
+      "key": 10,
+      "sidoName": "충북",
+      "stations": []
+    },
+    {
+      "key": 11,
+      "sidoName": "충남",
+      "stations": []
+    },
+    {
+      "key": 12,
+      "sidoName": "전북",
+      "stations": []
+    },
+    {
+      "key": 13,
+      "sidoName": "전남",
+      "stations": []
+    },
+    {
+      "key": 14,
+      "sidoName": "경북",
+      "stations": []
+    },
+    {
+      "key": 15,
+      "sidoName": "경남",
+      "stations": []
+    },
+    {
+      "key": 16,
+      "sidoName": "제주",
+      "stations": []
+    },
+    {
+      "key": 17,
+      "sidoName": "세종",
+      "stations": []
+    }
+  ]
+}

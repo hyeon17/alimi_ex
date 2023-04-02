@@ -1,0 +1,8 @@
+{
+  "1": { "color": "#32A1FF", "text": "좋음" },
+  "2": { "color": "#02C73D", "text": "보통" },
+  "3": { "color": "#FFC323", "text": "한때나쁨" },
+  "4": { "color": "#FD9B5A", "text": "나쁨" },
+  "5": { "color": "#FF5959", "text": "매우나쁨" },
+  "null": { "color": "gray", "text": "알수없음" }
+}

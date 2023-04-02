@@ -1,0 +1,16 @@
+#menu-wrapper {
+    margin-top: 0.65rem;
+
+    .menu-item {
+        padding-top: 0.3rem;
+        padding-bottom: 0.3rem;
+        text-align: center;
+        font-size: 1.25rem;
+        margin-top: 0.3rem;
+        cursor: pointer;
+    }
+
+    .menu-item:hover {
+        background-color: #ddd;
+    }
+}
